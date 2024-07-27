@@ -96,13 +96,6 @@ streamlit run app.py
    - Explore the height vs. weight distribution for athletes in different sports.
    - Analyze the participation of men and women over the years.
 
-## Sample Visualizations
-
-![Medal Tally](images/medal_tally.png)
-![Overall Analysis](images/overall_analysis.png)
-![Country-wise Analysis](images/country_analysis.png)
-![Athlete-wise Analysis](images/athlete_analysis.png)
-
 ## Contributing
 
 1. Fork the repository.
