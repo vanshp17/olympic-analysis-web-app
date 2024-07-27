@@ -52,7 +52,7 @@ A list of Python packages required to run the project.
 1. **Clone the repository:**
 
 ```sh
-git clone https://github.com/yourusername/olympic-analysis.git
+git clone https://github.com/vanshp17/olympic-analysis-web-app.git
 cd olympic-analysis
 ```
 
